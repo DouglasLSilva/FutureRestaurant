@@ -1,9 +1,0 @@
-C:\Users\dougl\source\repos\FutureRestaurant\RestaurantMenu.API\bin\Debug\netcoreapp3.1\appsettings.Development.json
-C:\Users\dougl\source\repos\FutureRestaurant\RestaurantMenu.API\bin\Debug\netcoreapp3.1\appsettings.json
-C:\Users\dougl\source\repos\FutureRestaurant\RestaurantMenu.API\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
-C:\Users\dougl\source\repos\FutureRestaurant\RestaurantMenu.API\bin\Debug\netcoreapp3.1\RestaurantMenu.API.exe
-C:\Users\dougl\source\repos\FutureRestaurant\RestaurantMenu.API\obj\Debug\netcoreapp3.1\RestaurantMenu.API.AssemblyInfoInputs.cache
-C:\Users\dougl\source\repos\FutureRestaurant\RestaurantMenu.API\obj\Debug\netcoreapp3.1\RestaurantMenu.API.AssemblyInfo.cs
-C:\Users\dougl\source\repos\FutureRestaurant\RestaurantMenu.API\obj\Debug\netcoreapp3.1\RestaurantMenu.API.RazorTargetAssemblyInfo.cache
-C:\Users\dougl\source\repos\FutureRestaurant\RestaurantMenu.API\obj\Debug\netcoreapp3.1\staticwebassets\RestaurantMenu.API.StaticWebAssets.Manifest.cache
-C:\Users\dougl\source\repos\FutureRestaurant\RestaurantMenu.API\obj\Debug\netcoreapp3.1\staticwebassets\RestaurantMenu.API.StaticWebAssets.xml
