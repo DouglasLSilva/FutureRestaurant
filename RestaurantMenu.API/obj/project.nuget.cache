@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "rJ+Y0CHb8IfHA3bpwOOF4/wse1KY5CX0MOxC8dFWG2rUZYpS1/ODzdDJc0FpLOjQz/O2mFYJeVnq4H1wID0ukg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\dougl\\source\\repos\\FutureRestaurant\\RestaurantMenu.API\\RestaurantMenu.API.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\dougl\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.10.9\\microsoft.visualstudio.azure.containers.tools.targets.1.10.9.nupkg.sha512"
+  ],
+  "logs": []
+}

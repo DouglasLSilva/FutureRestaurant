@@ -1,0 +1,10 @@
+C:\Users\dougl\source\repos\FutureRestaurant\Menu.API\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\dougl\source\repos\FutureRestaurant\Menu.API\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\dougl\source\repos\FutureRestaurant\Menu.API\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\dougl\source\repos\FutureRestaurant\Menu.API\bin\Debug\netcoreapp3.1\Menu.API.exe
+C:\Users\dougl\source\repos\FutureRestaurant\Menu.API\obj\Debug\netcoreapp3.1\Menu.API.AssemblyInfoInputs.cache
+C:\Users\dougl\source\repos\FutureRestaurant\Menu.API\obj\Debug\netcoreapp3.1\Menu.API.AssemblyInfo.cs
+C:\Users\dougl\source\repos\FutureRestaurant\Menu.API\obj\Debug\netcoreapp3.1\Menu.API.RazorTargetAssemblyInfo.cache
+C:\Users\dougl\source\repos\FutureRestaurant\Menu.API\obj\Debug\netcoreapp3.1\staticwebassets\Menu.API.StaticWebAssets.Manifest.cache
+C:\Users\dougl\source\repos\FutureRestaurant\Menu.API\obj\Debug\netcoreapp3.1\staticwebassets\Menu.API.StaticWebAssets.xml
+C:\Users\dougl\source\repos\FutureRestaurant\Menu.API\obj\Debug\netcoreapp3.1\Menu.API.csprojAssemblyReference.cache
